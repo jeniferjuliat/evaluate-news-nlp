@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+header:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.navbar li {
+    margin-right: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #df1818;
+}

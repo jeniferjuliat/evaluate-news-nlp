@@ -1,0 +1,30 @@
+form {
+     padding: 40px;
+    margin: 20px auto;
+    max-width: 500px;
+}
+
+form:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+    color: #000;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #7c9399;
+}
