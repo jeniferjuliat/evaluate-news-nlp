@@ -2,7 +2,8 @@
 This project is a web app that allows users to enter a URL of an article and then uses Natural Language Processing (NLP) to analyze the text and provide information about the sentiment of the article.
 ![Captura de tela 2023-05-18 121845](https://github.com/jeniferjuliat/nlpapp/assets/107074702/f565a444-09ce-40fa-91c0-0788c21f6cfe)
 
-![Captura de tela 2023-05-18 121845](https://github.com/jeniferjuliat/nlpapp/assets/107074702/5000702e-e70f-4596-8b5b-79c911b14dfa)
+![Captura de tela 2023-05-18 121906](https://github.com/jeniferjuliat/nlpapp/assets/107074702/b15a2b22-b84a-4ae2-b180-b061c1a32bc8)
+
 
 
 ##How to run the app
